@@ -19,5 +19,5 @@ Slot-Specific Restrictions : Enhances user experience by offering flexibility, m
 
 #
 Keshika Patwari
-IIT Jodhpur,
-CSE Department
+CSE Department, IIT Jodhpur
+
